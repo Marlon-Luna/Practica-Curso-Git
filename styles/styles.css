@@ -9,3 +9,8 @@ body {
     background: red;
     color: black;
 }
+
+.box {
+    margin: 2rem;
+    padding: 1rem;
+}
