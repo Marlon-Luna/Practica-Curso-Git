@@ -25,3 +25,9 @@ body {
     max-width: 1000px;
     background-color: blueviolet;
 }
+
+.main {
+    color: red;
+    font-family: "oswald";
+    text-decoration: none;
+}
