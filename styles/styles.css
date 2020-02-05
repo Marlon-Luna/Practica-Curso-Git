@@ -19,3 +19,9 @@ body {
     border: none;
     margin: 0;
 }
+
+.container {
+    width: 80%;
+    max-width: 1000px;
+    background-color: blueviolet;
+}
