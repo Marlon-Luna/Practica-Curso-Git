@@ -13,3 +13,6 @@ En este curso aprenderás:
 Ahora tenemos dos ramas en el proyecto
 Se ha subido el proyecto a GitHub
 12456789
+
+# VSCode
+- Haciendo pull desde VSCode
